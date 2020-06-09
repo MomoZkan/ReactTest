@@ -1,0 +1,12 @@
+.yamahuda{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cardMini{
+  width:auto;
+  height:auto;
+  max-width:50px;
+  max-height:50px;
+  margin: 3px;
+}

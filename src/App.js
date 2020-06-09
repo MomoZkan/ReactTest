@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Tehuda />
+        <Tehuda number={20}/>
         <Yamahuda />
-        <Tehuda />
+        <Tehuda number={1}/>
       </header>
     </div>
   );
